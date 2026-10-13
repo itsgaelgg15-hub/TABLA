@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.caja {
+    width: 100%;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+}
+
+.encabezado {
+    height: 150px;
+    background-color: #b8d8f0;
+}
+
+.acerca {
+    height: 350px;
+    background-color: #b8d8f0;
+}
+
+.proyectos {
+    height: 350px;
+    background-color: #b8d8f0;
+}
